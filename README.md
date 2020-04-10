@@ -85,7 +85,12 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+</br>
 
+<!-- LICENSING -->
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/blob/master/LICENSE) for more information.
 
 
 
