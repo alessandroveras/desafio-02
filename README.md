@@ -56,3 +56,4 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 [issues-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues
 [linkedin-url]: https://www.linkedin.com/in/alessandro-veras-09903022/
 [repo-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs
+[product-screenshot]: images/screenshot.png
