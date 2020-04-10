@@ -4,14 +4,14 @@
     Bootcamp RocketSeat
 </h1>
 
-[![Contributors][contributors-shield]][contributors-url]
+->[![Contributors][contributors-shield]][contributors-url]
 [![Top Language][toplanguage-shield]][toplanguage-url]
 [![Codacy Grade][codacy-shield]][codacy-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]<-
 
 
 
