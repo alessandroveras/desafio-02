@@ -4,8 +4,8 @@
     Bootcamp RocketSeat
 </h1>
 
-|:-
-[![Contributors][contributors-shield]][contributors-url]
+
+|:-[![Contributors][contributors-shield]][contributors-url]-:|
 [![Repo Size][repository-size]][repo-url]
 [![Last Commit][lastcommit-shield]][repo-url]
 [![Top Language][toplanguage-shield]][repo-url]
@@ -13,7 +13,7 @@
 [![Snyk Vulnerabilities][vulnerabilities-shield]][vulnerabilities-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
--:|
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
