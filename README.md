@@ -5,7 +5,7 @@
 </h1>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Repo Size][repository-size]][toplanguage-url]
+[![Repo Size][repository-size]][repo-url]
 [![Last Commit][lastcommit-shield]][repo-url]
 [![Top Language][toplanguage-shield]][repo-url]
 [![Codacy Grade][codacy-shield]][codacy-url]
