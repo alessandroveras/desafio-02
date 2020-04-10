@@ -4,6 +4,7 @@
     Bootcamp RocketSeat
 </h1>
 
+<div align="center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Repo Size][repository-size]][repo-url]
 [![Last Commit][lastcommit-shield]][repo-url]
@@ -12,7 +13,7 @@
 [![Snyk Vulnerabilities][vulnerabilities-shield]][vulnerabilities-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
