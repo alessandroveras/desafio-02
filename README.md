@@ -5,7 +5,7 @@
 </h1>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Top Language][top-language]
+[Top Language][top-language]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
