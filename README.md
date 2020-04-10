@@ -18,7 +18,7 @@
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Report Bug</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Request Feature</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Request Feature</a>
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
