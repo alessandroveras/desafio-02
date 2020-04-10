@@ -1,6 +1,3 @@
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4fb6784d697f48b0bd2a062e6b381aea)](https://app.codacy.com/manual/alessandroveras/gostack-desafio-conceitos-nodejs?utm_source=github.com&utm_medium=referral&utm_content=alessandroveras/gostack-desafio-conceitos-nodejs&utm_campaign=Badge_Grade_Dashboard)
-
 <h1 align="center">
     <img width="300" height="300" alt="Gostack Bootcamp" src="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/blob/master/images/GO1.png" />
     <br>
@@ -8,14 +5,8 @@
 </h1>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-[![Contributors][contributors-shield]][contributors-url]
 [![Top Language][toplanguage-shield]][toplanguage-url]
+[![Codacy Grade][codacy-shield]][codacy-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -25,22 +16,24 @@
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->]
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- SHIELDS -->
-[contributors-shield]: https://img.shields.io/github/contributors/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
-[toplanguage-shield]: https://img.shields.io/github/languages/top/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
-[repository-size]: https://img.shields.io/github/repo-size/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
-[forks-shield]: https://img.shields.io/github/forks/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
-[stars-shield]: https://img.shields.io/github/stars/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
-[issues-shield]: https://img.shields.io/github/issues/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
-[license-shield]: https://img.shields.io/github/license/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[contributors-shield]: https://img.shields.io/github/contributors/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=plastic
+[toplanguage-shield]: https://img.shields.io/github/languages/top/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=plastic
+[repository-size]: https://img.shields.io/github/repo-size/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=plastic
+[codacy-shield]: https://img.shields.io/codacy/grade/8c1a3b68251a46d7bb91c8063bfdca18?style=plastic
+[forks-shield]: https://img.shields.io/github/forks/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=plastic
+[stars-shield]: https://img.shields.io/github/stars/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=plastic
+[issues-shield]: https://img.shields.io/github/issues/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=plastic
+[license-shield]: https://img.shields.io/github/license/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=plastic
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=555
 [product-screenshot]: images/screenshot.png
 
 <!-- URL -->
 [contributors-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/graphs/contributors
 [toplanguage-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs
+[codacy-url]: https://app.codacy.com/manual/alessandroveras/gostack-desafio-conceitos-nodejs?utm_source=github.com&utm_medium=referral&utm_content=alessandroveras/gostack-desafio-conceitos-nodejs&utm_campaign=Badge_Grade_Dashboard
 [forks-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/network/members
 [stars-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/stargazers
 [issues-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues
