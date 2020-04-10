@@ -3,14 +3,15 @@
     <br>
     Bootcamp RocketSeat
 </h1>
-
+<p align="center">
 [![Contributors][contributors-shield]][contributors-url]
+[![Top Language][top-language]]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -18,6 +19,8 @@
 
 <!-- SHIELDS -->
 [contributors-shield]: https://img.shields.io/github/contributors/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
+[top-language]: https://img.shields.io/github/languages/top/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
+[repository-size]: https://img.shields.io/github/repo-size/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
 [forks-shield]: https://img.shields.io/github/forks/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
 [stars-shield]: https://img.shields.io/github/stars/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
 [issues-shield]: https://img.shields.io/github/issues/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
@@ -31,4 +34,4 @@
 [stars-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/stargazers
 [issues-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues
 [license-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/blob/master/LICENSE.txt
-[linkedin-url]: https://linkedin.com/in/alessandroveras
+[linkedin-url]: https://www.linkedin.com/in/alessandro-veras-09903022/
