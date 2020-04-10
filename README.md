@@ -6,8 +6,8 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Repo Size][repository-size]][toplanguage-url]
-[![Last Commit][lastcommit-shield]]
-[![Top Language][toplanguage-shield]][toplanguage-url]
+[![Last Commit][lastcommit-shield]][repo-url]
+[![Top Language][toplanguage-shield]][repo-url]
 [![Codacy Grade][codacy-shield]][codacy-url]
 [![Snyk Vulnerabilities][vulnerabilities-shield]][vulnerabilities-url]
 [![Issues][issues-shield]][issues-url]
@@ -29,8 +29,8 @@
 
 <!-- URL -->
 [contributors-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/graphs/contributors
-[toplanguage-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs
 [codacy-url]: https://app.codacy.com/manual/alessandroveras/gostack-desafio-conceitos-nodejs?utm_source=github.com&utm_medium=referral&utm_content=alessandroveras/gostack-desafio-conceitos-nodejs&utm_campaign=Badge_Grade_Dashboard
 [vulnerabilities-url]: https://snyk.io/test/github/alessandroveras/gostack-desafio-conceitos-nodejs?targetFile=package.json
 [issues-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues
 [linkedin-url]: https://www.linkedin.com/in/alessandro-veras-09903022/
+[repo-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs
