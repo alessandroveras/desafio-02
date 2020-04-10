@@ -25,7 +25,7 @@
 <p align="center">
   <a href="#thought_balloon-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#musle-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#muscle-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Report Bug</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Request Feature</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
@@ -48,6 +48,9 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
+</br>
+
+<!-- USAGE -->
 
 ## :wrench: Usage
 
@@ -69,6 +72,7 @@ $ react-native run-ios --simulator="iPhone XS Max"
 # Run the app (Android)
 $ react-native run-android
 ```
+</br>
 
 <!-- CONTRIBUTING -->
 ## :muscle: Contributing
@@ -80,6 +84,12 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+
+
+
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
