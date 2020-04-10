@@ -6,11 +6,11 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Repo Size][repository-size]][toplanguage-url]
+[![Last Commit][lastcommit-shield]]
 [![Top Language][toplanguage-shield]][toplanguage-url]
 [![Codacy Grade][codacy-shield]][codacy-url]
 [![Snyk Vulnerabilities][vulnerabilities-shield]][vulnerabilities-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -24,7 +24,7 @@
 [codacy-shield]: https://img.shields.io/codacy/grade/8c1a3b68251a46d7bb91c8063bfdca18?style=plastic
 [vulnerabilities-shield]: https://img.shields.io/snyk/vulnerabilities/github/alessandroveras/gostack-desafio-conceitos-nodejs?style=plastic
 [issues-shield]: https://img.shields.io/github/issues/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=plastic
-[license-shield]: https://img.shields.io/github/license/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=plastic
+[lastcommit-shield]: https://img.shields.io/github/last-commit/alessandroveras/gostack-desafio-conceitos-nodejs?style=plastic
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=555
 
 <!-- URL -->
@@ -33,5 +33,4 @@
 [codacy-url]: https://app.codacy.com/manual/alessandroveras/gostack-desafio-conceitos-nodejs?utm_source=github.com&utm_medium=referral&utm_content=alessandroveras/gostack-desafio-conceitos-nodejs&utm_campaign=Badge_Grade_Dashboard
 [vulnerabilities-url]: https://snyk.io/test/github/alessandroveras/gostack-desafio-conceitos-nodejs?targetFile=package.json
 [issues-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues
-[license-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/blob/master/LICENSE.txt
 [linkedin-url]: https://www.linkedin.com/in/alessandro-veras-09903022/
