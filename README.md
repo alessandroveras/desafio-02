@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img width="300" height="300" alt="Gostack Bootcamp" src="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/blob/master/assets/GO1.png" />
+    <img width="300" height="300" alt="Gostack Bootcamp" src="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/blob/master/images/GO1.png" />
     <br>
-    React Native RocketShoes
+    Bootcamp RocketSeat
 </h1>
 
 [![Contributors][contributors-shield]][contributors-url]
