@@ -4,7 +4,6 @@
     Bootcamp RocketSeat
 </h1>
 
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Repo Size][repository-size]][repo-url]
 [![Last Commit][lastcommit-shield]][repo-url]
@@ -17,9 +16,9 @@
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-  <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Report Bug</a>
-  <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Request Feature</a>
+  <a href="#memo-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Report Bug</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Request Feature</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
