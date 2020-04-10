@@ -3,7 +3,7 @@
     <br>
     Bootcamp RocketSeat
 </h1>
-<p align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Top Language][top-language]]
 [![Forks][forks-shield]][forks-url]
@@ -11,7 +11,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
