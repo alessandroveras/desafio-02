@@ -5,7 +5,7 @@
 </h1>
 
 [![Contributors][contributors-shield]][contributors-url]
-[top-language]
+[![Top Language][top-language][toplanguageurl]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -30,6 +30,7 @@
 
 <!-- URL -->
 [contributors-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/graphs/contributors
+[toplanguage-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs
 [forks-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/network/members
 [stars-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/stargazers
 [issues-url]: https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues
