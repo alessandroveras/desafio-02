@@ -14,7 +14,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
-  <a href="#rocket-technologies">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#thought_balloon-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Report Bug</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/issues">Request Feature</a>\&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
