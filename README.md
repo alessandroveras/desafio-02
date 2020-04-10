@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4fb6784d697f48b0bd2a062e6b381aea)](https://app.codacy.com/manual/alessandroveras/gostack-desafio-conceitos-nodejs?utm_source=github.com&utm_medium=referral&utm_content=alessandroveras/gostack-desafio-conceitos-nodejs&utm_campaign=Badge_Grade_Dashboard)
+
 <h1 align="center">
     <img width="300" height="300" alt="Gostack Bootcamp" src="https://github.com/alessandroveras/gostack-desafio-conceitos-nodejs/blob/master/images/GO1.png" />
     <br>
