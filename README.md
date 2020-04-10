@@ -5,7 +5,7 @@
 </h1>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Top Language][top-language][toplanguage-url]
+[![Top Language][toplanguage-shield]][toplanguage-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -19,7 +19,7 @@
 
 <!-- SHIELDS -->
 [contributors-shield]: https://img.shields.io/github/contributors/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
-[top-language]: https://img.shields.io/github/languages/top/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
+[toplanguage-shield]: https://img.shields.io/github/languages/top/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
 [repository-size]: https://img.shields.io/github/repo-size/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
 [forks-shield]: https://img.shields.io/github/forks/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
 [stars-shield]: https://img.shields.io/github/stars/alessandroveras/gostack-desafio-conceitos-nodejs.svg?style=flat-square
